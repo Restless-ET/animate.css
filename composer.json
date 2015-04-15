@@ -14,5 +14,15 @@
             "email": "aberdnikov@gmail.com",
             "role": "maintainer of package for composer"
         }
-    ]
+    ],
+    "extra": {
+        "component": {
+            "styles": [
+                "animate.css"
+            ],
+            "files": [
+                "animate.min.css"
+            ]
+        }
+    }
 }
